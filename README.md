@@ -8,6 +8,6 @@
 
 for frontend 
 
-1.npx create-react-app frontend
-2.cd frontend
-3.npm start
+1. npx create-react-app frontend 
+2. cd frontend
+3. npm start
